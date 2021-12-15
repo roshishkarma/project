@@ -8,6 +8,12 @@
     .mainbackground.verificationcode{
         min-height:300px; 
     }
+    .mainbackground.forgotpassword{
+        min-height:300px;
+    }
+    .mainbackground.changepassword{
+        min-height:340px;
+    }
 .maintitle{
     text-align: center; 
     color: white; 
@@ -44,9 +50,11 @@
 }
     .text.hyperlink{
         font-size:13px;
+        text-decoration: underline;
     }
     .normal{
         font-size:15px;
+        text-align: center;
     }
 .signup{
     font-family: Droid Sans Mono; 
