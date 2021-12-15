@@ -35,8 +35,25 @@
     color: #fbfdff; 
     font-size: 13px;
 }
-.hyperlink{
+.text{
     font-family: Josefin Sans;
     color: #bec2c7; 
-    font-size:13px;
+}
+    .text.hyperlink{
+        font-size:13px;
+    }
+    .normal{
+        font-size:15px;
+    }
+.signup{
+    font-family: Droid Sans Mono; 
+    color: #22a0e3;
+    font-size:18px;
+}
+.textor{
+    font-size: 20px; 
+    background-color: #205459; 
+    padding: 0 10px; 
+    font-family: Droid Sans Mono; 
+    color: #fbfdff;
 }
