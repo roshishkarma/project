@@ -5,6 +5,9 @@
     .mainbackground.login{
     min-height:400px; 
     }
+    .mainbackground.verificationcode{
+        min-height:300px; 
+    }
 .maintitle{
     text-align: center; 
     color: white; 
