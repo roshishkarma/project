@@ -1,0 +1,42 @@
+.mainbackground {
+   min-width:275px; 
+   background-color: #205459;
+}
+    .mainbackground.login{
+    min-height:400px; 
+    }
+.maintitle{
+    text-align: center; 
+    color: white; 
+    margin-top: 20px;
+}
+.mottotext{
+    font-size: 15px;
+    font-family: Karla;
+    color: white;
+}
+.inputtext{
+    font-family: Josefin Sans; 
+    border-radius: 5px; 
+    border: 1px solid #8492a6; 
+    padding: 2px; 
+    width: 200px; 
+    height: 30px; 
+    background-color: #c8cec8; 
+    font-size: small;
+}
+.btnsubmit{
+    font-family: Droid Sans Mono; 
+    border-radius: 5px; 
+    border: 1px solid #8492a6; 
+    width: 200px; 
+    height: 25px; 
+    background-color: #22a0e3; 
+    color: #fbfdff; 
+    font-size: 13px;
+}
+.hyperlink{
+    font-family: Josefin Sans;
+    color: #bec2c7; 
+    font-size:13px;
+}
