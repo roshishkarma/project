@@ -40,25 +40,25 @@
     border: 1px solid #8492a6; 
     width: 200px; 
     height: 25px; 
-    background-color: #22a0e3; 
+    background-color: #97c94d; 
     color: #fbfdff; 
     font-size: 13px;
 }
 .text{
-    font-family: Josefin Sans;
+    font-family: Poppins;
     color: #bec2c7; 
 }
     .text.hyperlink{
-        font-size:13px;
+        font-size:11px;
         text-decoration: underline;
     }
     .normal{
-        font-size:15px;
+        font-size:13.5px;
         text-align: center;
     }
 .signup{
     font-family: Droid Sans Mono; 
-    color: #22a0e3;
+    color: #97c94d;
     font-size:18px;
 }
 .textor{
