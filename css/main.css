@@ -17,6 +17,9 @@
     .mainbackground.termsandconditions{
         min-height:340px;
     }
+    .mainbackground.maintenance{
+        min-height:300px;
+    }
 .maintitle{
     text-align: center; 
     color: white; 
@@ -54,6 +57,7 @@
     .text.hyperlink{
         font-size:11px;
         text-decoration: underline;
+        font-style: italic;
     }
     .text.normal{
         font-size:13.5px;
@@ -67,6 +71,11 @@
     .text.terms{
         font-size:12px;
         text-align: center;
+    }
+    .text.maintenanceheading{
+        font-size:18px;
+        text-align: center;
+        font-weight: 500;
     }
 .signup{
     font-family: Droid Sans Mono; 
